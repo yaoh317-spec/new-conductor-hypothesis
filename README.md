@@ -45,13 +45,12 @@ Estimated performance:
 
 ---
 
-## 🧩 Repository Structure
+## Repository Structure
 
-```
-/images/        → Diagrams (1.0, N1, N2)
-/docs/          → PDFs, formulas, technical notes
-README.md       → This file
-```
+- [/images](images/) — Diagrams (1.0, N1, N2)
+- [/docs](docs/) — PDFs, formulas, technical notes
+- README.md — This file
+
 
 ---
 
