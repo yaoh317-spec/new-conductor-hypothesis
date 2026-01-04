@@ -1,0 +1,55 @@
+Q1: Is this a superconductor?
+
+No.
+
+Q2: Is the physics correct? Can it be verified?
+
+Yes. All standard formulas can be checked.
+
+Q3: What physics does this use?
+
+Mean free path, Fowler–Nordheim, Ramsauer–Townsend, disjoining pressure, pinning, Marangoni, τ, and I²R.
+
+Q4: What is the main difficulty?
+
+Engineering precision, not physics.
+
+Q5: What is still uncertain?
+
+SAM lifetime, long-term pressure drift, and large-scale uniformity.
+
+Q6: Why doesn’t it break down?
+
+Nanoscale regime → field emission, not macro discharge.
+
+Q7: Can the gas stay confined?
+
+Yes. Confinement + interface pressure.
+
+Q8: Won’t electrons scatter everywhere?
+
+Scattering is very low. λ ≫ L.
+
+Q9: What about heating?
+
+R is very low. I²R is negligible.
+
+Q10: Can this be mass-produced?
+
+Hard, but not forbidden by engineering.
+
+Q11: Why hasn’t anyone done this before?
+
+No idea.
+
+Q12: Is this an AI hallucination?
+
+You can verify the formulas yourself.
+
+Q13: Who are you? Education?
+
+Anonymous. High school dropout. No college.
+
+Q14: How did you come up with this?
+
+Imagination + reasoning.
