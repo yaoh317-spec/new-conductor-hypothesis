@@ -47,10 +47,9 @@ Estimated performance:
 
 ## Repository Structure
 
-- [/images](images/) — Diagrams (1.0, N1, N2)
-- [/docs](docs/) — PDFs, formulas, technical notes
-- README.md — This file
-
+/images/ — Images used in the README
+/docs/ — Formula, patent notes, FAQ
+README.md — Main documentation
 
 ---
 
