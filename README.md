@@ -1,3 +1,4 @@
+I use 3.5nm Xe 4nm graphite 100nm silicone oil in forluma cause i think this is more easy for engineering and more stability less efficiency but more better 
 While adhering to the laws of physics, is it possible to achieve near-superconductor performance through structural design?    
 The core purpose of this article is to explore whether it is possible to achieve near-superconductor properties through structural design in the absence of a superconductor, rather than achieving the functionality of a 1:1 superconductor.   
 1.0 The assumed materials are graphite, gaseous xenon, and silicone oil, forming an example composite structure. Graphite is the core, xe is the interlayer, and silicone oil is the stabilizer.   
@@ -83,5 +84,5 @@ If it could work in even 1 fs all can be think it worked.
 https://steamcommunity.com/profiles/76561198227000340/     prove im a human.   and my english is bad as fuck so i use lot google translate but i still try to translate some place sorry for hard to reading.    
 btc: bc1qajt2xx9ava85t2guy2ehzjgzvns72xmc6td5rz     
 if it works then u can give some not forcing but i need to buy new gpu if it not work or u think this bullshit just dont need to give any money.         
-I use 3.5nm Xe 4nm graphite 100nm silicone oil in forluma cause i think this is more easy for engineering and more stability less efficiency but more better 
+
    
