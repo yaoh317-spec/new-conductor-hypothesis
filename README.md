@@ -83,5 +83,5 @@ If it could work in even 1 fs all can be think it worked.
 https://steamcommunity.com/profiles/76561198227000340/     prove im a human.   and my english is bad as fuck so i use lot google translate but i still try to translate some place sorry for hard to reading.    
 btc: bc1qajt2xx9ava85t2guy2ehzjgzvns72xmc6td5rz     
 if it works then u can give some not forcing but i need to buy new gpu if it not work or u think this bullshit just dont need to give any money.         
-Can use Mica too Stablize but still have some problems but it maybe work more longer best size might xe 4.5nm graphite 3-5nm  Silicone oil 200nm    
-quantum tunneling can down to the almost 1/10000000. only hypothesis i cant promise.     
+I use 3.5nm Xe 4nm graphite 100nm silicone oil in forluma cause i think this is more easy for engineering and more stability less efficiency but more better 
+   
